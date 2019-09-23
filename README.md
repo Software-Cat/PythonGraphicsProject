@@ -1,2 +1,2 @@
 # Python-Graphics-Project
-With graphics.py
+Done with graphics.py
